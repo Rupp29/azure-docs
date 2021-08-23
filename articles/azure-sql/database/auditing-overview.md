@@ -5,8 +5,8 @@ services: sql-database
 ms.service: sql-database
 ms.subservice: security
 ms.topic: conceptual
-author: DavidTrigano
-ms.author: datrigan
+author: rupp29
+ms.author: arupp
 ms.reviewer: vanto
 ms.date: 07/22/2021
 ms.custom: azure-synapse, sqldbrb=1
